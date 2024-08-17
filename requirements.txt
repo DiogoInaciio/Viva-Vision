@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+pillow
+SpeechRecognition
+torchaudio
+opencv-python
+scipy
+langchain-openai
+openai
