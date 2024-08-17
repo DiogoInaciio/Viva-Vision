@@ -15,7 +15,7 @@ O Viva-Vision permite que pessoas com deficiência visual obtenham descrições 
 ## Tecnologias Utilizadas
 
 - **Reconhecimento de Imagem**: Utiliza o modelo BLIP para gerar descrições das imagens capturadas pela câmera. 🖼️
-- **Processamento de Linguagem Natural (NLP)**: Utiliza a OpenAI API para gerar respostas conversacionais. 🧠
+- **Processamento de Linguagem Natural (NLP)**: Utiliza a OpenAI API com o modelo gratuito do LLAMA para gerar respostas conversacionais. 🧠
 - **Tradução**: Google Translator é usado para traduzir as descrições para o idioma desejado. 🌐
 - **Síntese de Fala**: Pyttsx3 para converter texto em fala e fornecer feedback auditivo ao usuário. 🎙️
 - **Reconhecimento de Fala**: SpeechRecognition para captar e interpretar comandos de voz. 🎤
@@ -31,6 +31,7 @@ O Viva-Vision permite que pessoas com deficiência visual obtenham descrições 
   - transformers 🤖
   - openai 🌟
   - SpeechRecognition 🎤
+  - llama3 para uso gratuito
 
 ## Como Funciona
 
