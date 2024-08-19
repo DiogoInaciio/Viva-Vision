@@ -110,7 +110,7 @@ def get_speech_input():
 def main():
     while True:
         # Solicita a pergunta do usuário via fala
-        user_input = str(input())
+        user_input = get_speech_input()
 
         # Verifica se o usuário quer encerrar o chat
         if 'analisar imagem' in user_input.lower():
