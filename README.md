@@ -67,8 +67,4 @@ Para executar o Viva-Vision:
    ```bash
    pip install opencv-python Pillow deep-translator pyttsx3 transformers openai SpeechRecognition
 
-VIVA foi criado pelos alunos da turma do Samsung Innovation Campus no SENAI Anchieta.
-Este projeto foi desenvolvido por quatro alunos: Anne Gomes, Bruno Burian, Diogo Inácio e Guilherme Souza, que foram responsáveis pela programação do código.
-Anne Gomes, de 18 anos, nasceu no bairro do Campo Limpo, em São Paulo. Estudante de Administração, ela se destaca por sua altura de 1,64 metros, cabelos cacheados e pele negra.
-Diogo Inácio, com 21 anos, é natural de Arapiraca, Alagoas. Ele cursa Análise e Desenvolvimento de Sistemas e tem 1,80 metros de altura, cabelos crespos e pele negra.
-Guilherme Souza, também de 18 anos, nasceu na Vila Mariana, São Paulo. Estudante de Análise e Desenvolvimento de Sistemas, ele possui 1,80 metros de altura, cabelos crespos e pele negra.
+
